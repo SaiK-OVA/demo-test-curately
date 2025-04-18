@@ -1,0 +1,1 @@
+import{k as e}from"./DAuuuMsE.js";function r(){return e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"D:/demo-test-curately/curately-9.6.5/curately-9.6.5/src/shared/styles/QuillCSS.tsx",lineNumber:4,columnNumber:12},this)}export{r as default};

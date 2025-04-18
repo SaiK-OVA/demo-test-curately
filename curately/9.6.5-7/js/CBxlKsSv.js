@@ -1,0 +1,1 @@
+import{e as o,j as s}from"./DAuuuMsE.js";const e=o(s.jsx("path",{d:"M9.4 16.6 4.8 12l4.6-4.6L8 6l-6 6 6 6zm5.2 0 4.6-4.6-4.6-4.6L16 6l6 6-6 6z"}),"Code"),a=o(s.jsx("path",{d:"M3 18h12v-2H3zM3 6v2h18V6zm0 7h18v-2H3z"}),"Notes");export{e as C,a as N};

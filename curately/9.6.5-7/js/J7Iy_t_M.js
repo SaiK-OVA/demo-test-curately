@@ -1,0 +1,1 @@
+import{k as e}from"./DAuuuMsE.js";function t(){return e.jsxDEV(e.Fragment,{},void 0,!1,{fileName:"D:/demo-test-curately/curately-9.6.5/curately-9.6.5/src/shared/styles/ColorCSS.tsx",lineNumber:5,columnNumber:12},this)}export{t as default};

@@ -1,0 +1,1 @@
+.editGrid{min-height:43px;cursor:pointer;border-radius:5px;display:flex;justify-content:start;align-items:center;max-width:max-content}.editGrid span{padding-top:1px}.editGrid .editIcon{display:none}.editGrid .editIcon:hover{background-color:none!important}.editGrid:hover{padding-top:0;background-color:#0069ff11}.editGrid:hover .editIcon{display:inline-block!important}

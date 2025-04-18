@@ -172,7 +172,7 @@
     "sass": "^1.69.7",
     "typescript": "^5.2.2",
     "typescript-eslint": "^8.21.0",
-    "vite": "^6.0.4",
+    "vite": "^6.3.2",
     "vite-bundle-analyzer": "^0.15.2",
     "webpack-bundle-analyzer": "^4.10.2"
   },

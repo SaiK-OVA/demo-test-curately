@@ -1,0 +1,1 @@
+const s={formatMillisecondsToCustomDate(o){const t=new Date(o),a=t.getFullYear(),e=String(t.getMonth()+1).padStart(2,"0"),n=String(t.getDate()).padStart(2,"0");return`${e}/${n}/${a}`}};export{s as F};

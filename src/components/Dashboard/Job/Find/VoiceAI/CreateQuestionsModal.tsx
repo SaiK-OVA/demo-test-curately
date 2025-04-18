@@ -15,7 +15,7 @@ import { React, useEffect, useRef, useState } from '../../../../../shared/module
 import { userLocalData } from '../../../../../shared/services/userData';
 import CustomPagination from '../../../../shared/CustomPagination/CustomPagination';
 import { showToaster } from '../../../../shared/SnackBar/SnackBar';
-import "./createQuestionsModal.scss";
+import "./CreateQuestionsModal.scss";
 import Parsable from '../../../../../shared/utils/Parsable';
 
 interface ICreateQuestionsModalProps {

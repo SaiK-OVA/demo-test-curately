@@ -10,9 +10,9 @@
 /coverage
 
 # production
-/build
-/curatelyadmin
-/curately
+# /build
+# /curatelyadmin
+# /curately
 
 # misc
 .DS_Store

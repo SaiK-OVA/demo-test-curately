@@ -1,0 +1,1 @@
+const e={email(r){return r?r.replace(/(^[^@]+)/,"****"):""},phone(r){if(r!=null&&r.replace(/\D/g,"")){const t=r==null?void 0:r.replace(/\D/g,""),s=t.length-3;return t.substring(0,s).replace(/./g,"*")+t.substring(s)}return""}};export{e as M};
