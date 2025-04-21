@@ -677,6 +677,7 @@ const Home = () => {
     return (
         <div className='home_main'>
         <h1> AWS first commit </h1>
+        <h2> AWS second commit </h2>
             <Card className='pt-1 card_main'>
                 <Grid
                     container
